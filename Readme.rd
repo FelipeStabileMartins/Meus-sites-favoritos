@@ -6,7 +6,6 @@
 
 Este projeto foi desenvolvido como atividade prática de HTML, com o objetivo de criar uma página web apresentando cinco sites favoritos, com imagens e links para acessá-los.
 
-## Tecnologias utilizadas
 
 - HTML5
 - Navegador web
